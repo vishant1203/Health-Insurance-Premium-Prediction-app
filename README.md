@@ -25,8 +25,7 @@ A machine learning project to predict **health insurance premiums** based on fac
 ## 📌 Project High Level Overview  
 This project was developed for **Shield Insurance** by **AtliQ AI** with the objective of building a predictive model that can accurately estimate health insurance premiums.  
 
-The solution has two phases:  
-- **Phase 1 (MVP)** – Build and deploy a predictive model with a Streamlit application.  
+- **Project Deliverables**: Build and deploy a predictive model with a Streamlit application.  
 
 ---
 
