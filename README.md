@@ -5,7 +5,7 @@
 
 A machine learning project to predict **health insurance premiums** based on factors like **age, BMI, smoking habits, and medical history**.  
 
-🔗 **Live Demo** → [Health Insurance Premium Calculator](https://health-insurance-premium-calculation.streamlit.app/)  
+🔗 **Live Demo** → [Health Insurance Premium Calculator](https://health-insurance-premium-prediction-app-vishant1203.streamlit.app/)  
 
 ---
 
@@ -98,6 +98,6 @@ With machine learning, insurers can:
 ---
 
 ## ⚡Live Demo
-https://health-insurance-premium-calculation.streamlit.app/
+https://health-insurance-premium-prediction-app-vishant1203.streamlit.app/
 
 *Try out the model directly here →* [Health Insurance Premium Calculator](https://health-insurance-premium-calculation.streamlit.app/)
